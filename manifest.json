@@ -6,7 +6,7 @@
         "en": "self-hosted alternative to One Time Passcode",
         "fr": "self-hosted alternative to One Time Passcode"
     },
-    "version": "2.1.0~ynh2",
+    "version": "3.3.2~ynh1",
     "url": "https://github.com/Bubka/2FAuth",
     "upstream": {
         "license": "AGPL-3.0",
@@ -28,7 +28,7 @@
         "mysql"
     ],
     "arguments": {
-        "install" : [
+        "install": [
             {
                 "name": "domain",
                 "type": "domain"
